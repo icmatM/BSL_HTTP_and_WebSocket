@@ -66,19 +66,18 @@ through the Bonezegei Scripting Language (BSL) HTTP server.
 The portfolio should appear in the browser while the server
 is running.
 
+
 ## 6. Execution Verification
 
 ### Terminal Output
 
-The screenshot below shows the terminal output after running
-the BSL web server.
+The screenshot below shows the terminal output after running the BSL web server.
 
-![Terminal Output] (public/screenshots/terminal.png)
+![Terminal Output](public/screenshots/terminal.png)
 
 ### Browser Output
 
-The screenshot below shows the rendered personal portfolio
-in the browser.
+The screenshot below shows the rendered personal portfolio in the browser.
 
 ![Portfolio in Browser](public/screenshots/browser.png)
 
